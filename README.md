@@ -1,0 +1,2 @@
+# Simulação de modelo SIR para catapora (Varicela) na Cidade de Recife
+Este repositório contém a atividade prática desenvolvida para a disciplina de Elementos de Epidemiologia Computacional. O objetivo do projeto é modelar a dinâmica de transmissão da catapora (Varicela) na população do Recife utilizando o modelo compartimental SIR em linguagem R, explorando variações nos parâmetros de transmissibilidade ($\beta$) e recuperação ($\gamma$)
